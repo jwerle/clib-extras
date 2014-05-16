@@ -32,9 +32,9 @@ let len=${#REPOS[@]}
 let i=0
 
 ## install
-#for ((i = 0; i < len; ++i)); do
-  #clib install ${REPOS[$i]}
-#done
+for ((i = 0; i < len; ++i)); do
+  clib install ${REPOS[$i]}
+done
 
 if test -f "${COMPLETION_FILE}"; then
   rm -f "${COMPLETION_FILE}"
