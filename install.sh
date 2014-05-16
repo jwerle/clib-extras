@@ -55,6 +55,6 @@ COMPLETION_FILE
 . "${COMPLETION_FILE}"
 
 echo "Add this line to your \`.bashrc' or \`.bash_profile': "
-echo ". ${COMPLETION_FILE}"
+echo "test -f ${COMPLETION_FILE} && . ${COMPLETION_FILE}"
 
 exit $?
