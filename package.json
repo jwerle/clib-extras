@@ -1,0 +1,9 @@
+{
+  "name": "clib-extras",
+  "version": "0.0.1",
+  "repo": "jwerle/clib-init",
+  "description": "clib utility commands",
+  "keywords": ["clib", "extra", "util"],
+  "install": "make install"
+}
+
