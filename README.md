@@ -21,8 +21,6 @@ $ clib install jwerle/clib-extras
 
 - [`clib-uninstall`](https://github.com/clibs/clib-uninstall) - clib(1) plugin for uninstalling executables
 
-- [`clib-create`](https://github.com/stephenmathieson/clib-create) - Create a clib skeleton
-
 ## license
 
 MIT

@@ -5,7 +5,6 @@ export REPOS =                         \
 	jwerle/clib-init                     \
 	jwerle/clib-build                    \
 	clibs/clib-uninstall                 \
-	stephenmathieson/clib-create
 
 
 install:
