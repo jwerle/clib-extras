@@ -1,6 +1,6 @@
 {
   "name": "clib-extras",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repo": "jwerle/clib-extras",
   "description": "clib utility commands",
   "keywords": ["clib", "extra", "util"],
